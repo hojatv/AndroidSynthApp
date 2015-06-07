@@ -12,6 +12,7 @@ import android.widget.SeekBar;
 
 public class MainActivity extends Activity {
     Thread t;
+    int x;//Just testing GitHub
     int sr = 44100;
     boolean isRunning = true;
     SeekBar fSlider;
